@@ -1,0 +1,16 @@
+{
+  "name": "Usa",
+  "last_name": "Test User",
+  "email": "test@test.co",
+  "password": "123456",
+  "ev_name": "Ev",
+  "ev_last_name": "Test User",
+  "ev_email": "evtest@test.co",
+  "folio_name": "Folio",
+  "folio_last_name": "Test User",
+  "folio_email": "foliotest@test.co",
+  "folio_password": "123456",
+  "phone": "1234567890",
+  "company": "Test company",
+  "license": "123456"
+}
